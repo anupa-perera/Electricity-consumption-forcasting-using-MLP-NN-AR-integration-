@@ -1,4 +1,4 @@
-#Electricity Consumption Forecasting using MLP-NN (AR Integration)
+# Electricity Consumption Forecasting using MLP-NN (AR Integration)
 
 
 This project focuses on predicting the next day's electricity consumption for the University Building at 115 New Cavendish Street, London, based on hourly data. The dataset provided contains electricity consumption data in kWh for the years 2018 and 2019, specifically for three hours (20:00, 19:00, and 18:00). The goal is to develop a multilayer neural network (MLP-NN) model that utilizes the autoregressive (AR) approach to forecast the electricity consumption for the 20:00 hour case.
